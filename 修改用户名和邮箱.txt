@@ -1,0 +1,5 @@
+我修改了用户名和邮箱
+# 修改当前仓库的用户名
+git config user.name '孙海堂'
+# 修改当前仓库的邮箱
+git config user.email '1137079045@qq.com'
