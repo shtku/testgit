@@ -11,4 +11,5 @@
 测试git rebase的用法第一次提交
 测试git rebase的用法第二次提交
 测试git rebase的用法第三次提交
-rebase第一个修改
+rebase第一个修改C3
+rebase第二次修改C4
